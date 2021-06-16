@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello!
+I'm Pawan, a full stack developer at [tummee.com](www.tummee.com)
+
+## Education
+### NIT Kurukshetra (India)
+Bachelor of Technology, Electronics and Communication Engineering (2016-2020)
+
+## Contact me
+You can reach me at pawanyadav8053@gmail.com
 
 <!--
 **pawanyadavnitk/pawanyadavnitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
