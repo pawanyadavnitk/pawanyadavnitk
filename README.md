@@ -2,7 +2,7 @@
 I'm Pawan, a full stack developer at [tummee.com](www.tummee.com)
 
 ## Education
-### NIT Kurukshetra (India)
+#### NIT Kurukshetra (India)
 Bachelor of Technology, Electronics and Communication Engineering (2016-2020)
 
 ## Contact me
