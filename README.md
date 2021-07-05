@@ -1,5 +1,5 @@
 # Hello!
-I'm Pawan, a full stack developer at [tummee.com](www.tummee.com)
+I'm Pawan, a Software Engineer from India.
 
 ## Education
 #### NIT Kurukshetra (India)
